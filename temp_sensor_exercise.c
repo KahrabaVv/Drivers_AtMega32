@@ -1,9 +1,9 @@
 /*
  ===================================================================================================
  Name        : temp_sensor_example.c
- Author      : Mohamed Tarek
+
  Description : Test the ADC driver designed with interrupts technique using LM35 Temperature Sensor
- Date        : 28/12/2017
+
  ===================================================================================================
  */
 
